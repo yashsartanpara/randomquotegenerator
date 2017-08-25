@@ -1,0 +1,45 @@
+
+.p1{
+  font-family: 'Roboto', sans-serif;
+  height:120px;
+  font-size:16px;
+}
+.fl{
+  margin-left:20px;
+  float:left;
+}
+.fr{
+  margin-right:70px;
+  float:right;
+}
+.twit{
+  margin-top:20px;
+}
+.topm{
+  margin-top:20px;
+}
+.btn{
+  margin-top:00px;
+  position: relative;
+}
+}
+.container  {
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+.card{
+  vertical-align: middle;
+  width:500px;
+  margin-top:100px;
+  height:250px;
+}
+.p2{
+  margin-bottom:50px;
+}
+.container .row {
+  margin: 0 auto;
+}
